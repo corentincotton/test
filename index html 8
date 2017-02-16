@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <title>blaise matuidi</title>
+  </head>
+  <body>
+    <div>
+    <h1>biographie</h1>
+    <p>Blaise Matuidi, né le 9 avril 1987 à Toulouse, est un footballeur international
+      français jouant au Paris Saint-Germain, club français de Ligue 1.
+Milieu défensif et milieu relayeur, il commence sa carrière professionnelle à l'ES Troyes AC où
+il découvre la Ligue 2 et la Ligue 1 sous les ordres de Jean-Marc Furlan.
+Il évolue ensuite pendant quatre saisons à l'AS Saint-Étienne dont il devient le capitaine,
+il y découvre la coupe d'Europe et obtient ses premières sélections en équipe de France alors qu'il y joue. En 2011,
+il rejoint le Paris Saint-Germain avec qui il remporte le championnat de France à quatre reprises,
+le Trophée des champions et la Coupe de la Ligue, il atteint également par quatre fois les quarts-de-finale
+de la Ligue des champions avec le club parisien.
+Avec l'équipe de France, il participe à l'Euro 2012, à la Coupe du monde 2014 et à l'Euro 2016.</p>
+  </div>
+  <img src="blaise-matuidi.jpg" alt="matuidi">
+  <h2>club frequenter</h2>
+<p>-2004-2007 ES Troyes AC</p>
+<p>-2007-2011 AS Saint-Étienne</p>
+<p>-2011- Paris SG</p>
+<h3>lien pour plus d'info</h3>
+<ul>
+  <li><a href="https://fr.wikipedia.org/wiki/Blaise_Matuidi">cliquer ici</a></li>
+</ul>
+<a href="#" onclick="history.go(-1);">Retour</a>
+  </body>
+</html>

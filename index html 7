@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <title>n'golo kante</title>
+  </head>
+  <body>
+    <div>
+      <h1>biographie</h1>
+      <p>N'Golo Kanté, né le 29 mars 1991 à Paris, est un footballeur international
+        français qui évolue au poste de milieu de terrain au Chelsea FC.
+Kanté est avec Riyad Mahrez et Jamie Vardy un des principaux acteurs de la formation de
+ Leicester City FC qui remporte contre toute attente le titre en Premier League au terme de la saison 2015-2016.
+ Il est pour la première fois titulaire en équipe de France pour sa deuxième sélection, le 29 mars 2016 face à la Russie où
+ il marque son premier but international,
+le jour de son anniversaire. Il est finaliste de l'Euro 2016 avec l'équipe de France.</p>
+  </div>
+  <img src="kante.jpg" alt="kante">
+  <h3>club frequenter</h3>
+  <p>-2012-2013 US Boulogne</p>
+<p>-2013-2015 SM Caen</p>
+<p>-2015-2016 leicester city</p>
+<p>-2016- chelsea</p>
+<h3>lien pour plus d'info</h3>
+<ul>
+  <li><a href="https://fr.wikipedia.org/wiki/N'Golo_Kant%C3%A9">cliquer ici</a></li>
+</ul>
+<a href="#" onclick="history.go(-1);">Retour</a>
+  </body>
+</html>

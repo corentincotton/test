@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <title>samuel umtiti</title>
+  </head>
+  <body>
+    <div>
+      <h1>biographie</h1>
+      <p>Samuel Umtiti, né le 14 novembre 1993 à Yaoundé, est un footballeur international français.
+        Il évolue au poste de défenseur au FC Barcelone.
+Avec l'équipe de France, il participe à l'Euro 2016. Il est régulièrement appelé en sélection nationale depuis.</p>
+    </div>
+    <img src="umtiti.jpg" alt="samuel umtiti">
+    <h2>club frequenter</h2>
+<p>-2012-2016 olympique lyonnais</p>
+<p>-2016- FC barcelone</p>
+<h3>lien pour plus d'info</h3>
+<ul>
+  <li><a href="https://fr.wikipedia.org/wiki/Samuel_Umtiti">cliquer ici</a></li>
+</ul>
+<a href="#" onclick="history.go(-1);">Retour</a>
+  </body>
+</html>

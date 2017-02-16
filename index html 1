@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+<link rel="stylesheet" href="style.css">
+    <title>Dimitri payet</title>
+  </head>
+  <body>
+<div>
+  <h1>Biographie</h1>
+  <p>Dimitri Payet, né le 29 mars 1987 à Saint-Pierre sur l'île de La Réunion, est un footballeur international
+    français qui évolue au poste de milieu offensif à l'Olympique de Marseille.
+Il se distingue au sein de l'équipe de France qui atteint la finale de l'Euro 2016.</p>
+</div>
+<img src="payet.jpg" alt="dimitri payet">
+<h2>club frequenter</h2>
+<p>-1998-1999 JS Saint-Pierroise</p>
+<p>-1999-2003  Le Havre AC</p>
+<p>-2003-2004  AS Excelsior</p>
+<p>-2004-2005 FC Nantes</p>
+<p>-2005-2007 FC Nantes</p>
+<p>-2007-2011 Saint-Étienne</p>
+<p>-2011-2013  Lille OSC</p>
+<p>-2013-2015  Olympique de Marseille</p>
+<p>-2015-2017  West Ham United</p>
+<p>-2017  Olympique de Marseille </p>
+<h3>Lien pour un peu plus d'info</h3>
+<ul>
+  <li><a href="https://fr.wikipedia.org/wiki/Dimitri_Payet">cliquer ici</a></li>
+</ul>
+<a href="#" onclick="history.go(-1);">Retour</a>
+  </body>
+</html>

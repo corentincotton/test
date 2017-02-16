@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <link rel="stylesheet" href="style.css"/>
+<title>equipe de france de football</title>
+</head>
+  <body>
+    <div>
+<h1>presentation de l'equipe de france</h1>
+<p>l'equipe de france de football creer en 1904 est l'equipe qui represente la france dans les grandes competitions ,
+  seul les meilleurs joueurs francais sont selectionnes</p>
+</div>
+<img src="equipe france.jpg" alt="equipe de france">
+<h2>Nom des joueurs</h2>
+<ul>
+  <li><a href="file:///home/userpop/Documents/index%20html%201">dimitri payet</a></li>
+  <li><a href="file:///home/userpop/Documents/index%20html%202">hugo lloris</a></li>
+  <li><a href="file:///home/userpop/Documents/index%20html%203">laurent koscielny</a></li>
+<li><a href="file:///home/userpop/Documents/index%20html%204">samuel umtiti</a></li>
+<li><a href="file:///home/userpop/Documents/index%20html%205">patrice evra</a></li>
+<li><a href="file:///home/userpop/Documents/index%20html%206">paul pogba</a></li>
+<li><a href="file:///home/userpop/Documents/index%20html%207">n'golo kante</a></li>
+<li><a href="file:///home/userpop/Documents/index%20html%208">blaise matuidi</a></li>
+<li><a href="file:///home/userpop/Documents/index%20html%209">djibril sidibe</a></li>
+<li><a href="file:///home/userpop/Documents/index%20html%2010">antoine griezmann</a></li>
+<li><a href="file:///home/userpop/Documents/index%20html%2011">mousssa sissoko</a></li>
+</ul>
+</body>
+</html>

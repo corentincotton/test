@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <title>hugo lloris</title>
+  </head>
+  <body>
+    <div>
+    <h1>biographie</h1>
+    <p>Hugo Lloris, né le 26 décembre 1986 à Nice, est un footballeur international français qui évolue
+      en Premier League au poste de gardien de but à Tottenham Hotspur.
+Il fait ses débuts en Équipe de France après l'Euro 2008 et prend la place de numéro
+un à partir de fin 2009 puis devient capitaine de la sélection après le fiasco de Knysna.
+Il est le deuxième gardien de but tricolore en termes de longévité derrière Fabien Barthez.
+Il participe en tant que numéro un à la Coupe du monde 2010, à l'Euro 2012, la Coupe du monde 2014 et l'Euro 2016.
+Il détient le record du nombre de capitanats de l'histoire de l'équipe de France2.
+Il est également capitaine dans son club londonien depuis 2015.</p>
+</div>
+<img src="looris.png" alt="hugo loris">
+<h2>club frequenter</h2>
+<p>-OCG nice 2005-2008 </p>
+<p>-olympique lyonnais 2008-2012</p>
+<p>-Tottenham Hotspur 2012-</p>
+<h3>lien pour plus d'info</h3>
+<ul>
+  <li><a href="https://fr.wikipedia.org/wiki/Hugo_Lloris">cliquer ici</a></li>
+</ul>
+<a href="#" onclick="history.go(-1);">Retour</a>
+  </body>
+</html>

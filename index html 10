@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <title>antoine griezmann</title>
+  </head>
+  <body>
+    <div>
+      <h1>biographie</h1>
+      <p>Antoine Griezmann ([ɡʁjɛzman]2), né le 21 mars 1991 à Mâcon, est un footballeur international français.
+
+Il évolue en Liga Santander au poste d'attaquant/ailier gauche à l'Atlético Madrid. Surnommé « Grizi », « Grizou », «
+El diablo » ou encore « Petit Prince » par ses fans et coéquipiers. Recruté par la Real Sociedad à l'âge de quatorze ans,
+il fait ses armes dans le Championnat d'Espagne, tout en honorant des sélections en Équipe de France dans toutes les classes d'âges,
+ remportant ainsi le championnat d'Europe des moins de 19 ans en 2010. International A à partir de février 2014,
+ il dispute la Coupe du monde 2014 où il est remarqué pour sa combativité et son impact sur l'équipe de France.
+ Antoine Griezmann est ensuite recruté par l'Atlético Madrid et devient un des plus brillants acteurs de la Liga dont
+ il sera désigné meilleur joueur en 2016. Cette même année, il se distingue particulièrement lors de l'Euro 2016 dont
+ il est le meilleur buteur (six buts) et le meilleur joueur et où la France perd la finale face au Portugal.
+ Il termine sur le podium du Ballon d'or 2016, troisième derrière Lionel Messi et le lauréat Cristiano Ronaldo.
+ Il se trouve également « finaliste »
+ pour le titre de meilleur joueur du monde FIFA 2016 aux côtés des deux mêmes joueurs.</p>
+</div>
+<img src="griezmann.jpg" alt="griezmann">
+<h2>club frequenter</h2>
+<p>-2009-2014 Real Sociedad</p>
+<p>-2014- Atletico Madrid</p>
+<h3>lien pour plus d'info</h3>
+<ul>
+  <li><a href="https://fr.wikipedia.org/wiki/Antoine_Griezmann">griezmann</a></li>
+</ul>
+<a href="#" onclick="history.go(-1);">Retour</a>
+  </body>
+</html>

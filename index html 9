@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <title>djibril sidibe</title>
+  </head>
+  <body>
+    <div>
+      <h1>biographie</h1>
+      <p>Djibril Sidibé, né le 29 juillet 1992 à Troyes, est un footballeur international francais
+         au poste de défenseur à l'AS Monaco.</p>
+</div>
+<img src="sidibe.jpg" alt="sidibe">
+<h2>club frequenter</h2>
+<p>-2009-2012 ES Troyes AC</p>
+<p>-2012-2016 Lille OSC</p>
+<p>-2016- AS monaco</p>
+<h3>lien pour plus d'info</h3>
+<ul>
+  <li><a href="https://fr.wikipedia.org/wiki/Djibril_Sidib%C3%A9_%28football,_1992%29">sidibe</a></li>
+</ul>
+<a href="#" onclick="history.go(-1);">Retour</a>
+  </body>
+</html>

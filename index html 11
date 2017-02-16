@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <title>moussa sissoko</title>
+  </head>
+  <body>
+    <div>
+      <h1>biographie</h1>
+      <p>Moussa Sissoko, né le 16 août 1989 au Blanc-Mesnil (en Seine-Saint-Denis),
+         est un footballeur international français qui évolue en Premier League au poste de milieu de terrain à Tottenham Hotspur.
+Avec la sélection, il participe à la Coupe du monde 2014 et à l'Euro 2016.</p>
+</div>
+<img src="sissoko.jpg" alt="sissoko">
+<h2>club frequenter</h2>
+<p>-2007-2013 Toulouse FC</p>
+<p>-2013-2016 Newcastle United</p>
+<p>-2016- Tottenham Hotspur</p>
+<h3>lien pour plus d'info</h3>
+<ul>
+  <li><a href="https://fr.wikipedia.org/wiki/Moussa_Sissoko">sissoko</a></li>
+</ul>
+<a href="#" onclick="history.go(-1);">Retour</a>
+  </body>
+</html>

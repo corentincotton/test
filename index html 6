@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <title>paul pogba</title>
+  </head>
+  <body>
+    <div>
+      <h1>biographie</h1>
+      <p>Paul Pogba, né le 15 mars 1993 à Lagny-sur-Marne2 en Seine-et-Marne, est un joueur de football international français évoluant en Premier League au poste de milieu de terrain au Manchester United.
+
+Après quatre saisons sous le maillot de la Juventus de Turin, il est transféré vers
+son ancien club de Premier League pour la somme de 105 millions d'euros + 5 millions d'euros en bonus, faisant
+de lui le joueur le plus cher de l'histoire. Il y signe un contrat de cinq ans.
+Avec la Juventus, il remporte le championnat italien de Serie A quatre fois consécutivement, en 2013, 2014, 2015 et 2016.
+Il dispute la finale de la Ligue des champions en 2015.
+Sélectionné en équipe de France dans chaque catégorie d'âge depuis son adolescence,
+il est le capitaine de la formation des moins de 20 ans qui remporte le championnat du monde 2013, dont il est élu meilleur joueur.
+Il participe à la Coupe du monde 2014,
+ à l'issue de laquelle il est désigné meilleur jeune, puis à l'Euro 2016 où la France atteint la finale.</p>
+  </div>
+  <img src="paul pogba.jpg" alt="paul pogba">
+  <h2>club frequenter</h2>
+  <p>-2011-2012 manchester united</p>
+  <p>-2012-2016 juventus turin</p>
+  <p>-2016- manchester united</p>
+  <h3>lien pour plus d'info</h3>
+  <ul>
+    <li><a href="https://fr.wikipedia.org/wiki/Paul_Pogba">paul pogba</a></li>
+  </ul>
+<a href="#" onclick="history.go(-1);">Retour</a>
+  </body>
+</html>
